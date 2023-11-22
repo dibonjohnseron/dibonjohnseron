@@ -3,7 +3,6 @@ With expertise in front-end development, UI design, and back-end structuring, I 
 I consistently stay abreast of the latest technologies, leveraging them to enhance project quality and efficiency. My skills encompass a holistic approach to software development, combining technical proficiency with a focus on user-centric design.
 
 ---
-
 <br/>
 <div id="header" align="center">
 
