@@ -10,7 +10,7 @@ I consistently stay abreast of the latest technologies, leveraging them to enhan
 
 ---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=dev-bon&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-bon&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dibonjohnseron&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dibonjohnseron&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
